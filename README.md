@@ -4,6 +4,7 @@ Feauters in the future (Futurs):
 
 Futur 1:
 - count the cost of purchasing paints and others, depending on the surface (surface counting assistant), the type of paint (efficiency, stain resistance, etc.) 
+- 
 Futur 2:
 
 Futur 3:
